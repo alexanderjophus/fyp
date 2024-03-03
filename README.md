@@ -1,6 +1,6 @@
 # fyp
 
-My final year project at university was computing graph decompositions and running NP Hard problems on them. I used C++ to do this. I found this code on my dropbox from 10 years ago. I'm not sure if it's the final version or not. I'm not sure if it even works. I'm not sure if it's any good.
+My final year project at university was computing graph decompositions and running NP Hard problems on them. I used C++ to do this. I found this code on my dropbox from 10 years ago. I'm not sure if it's the final version or not. I'm not sure if it even works. I'm sure it's no good though.
 
 I'm uploading the original C++ files in the hopes it helps someone, it certainly will help me.
 
