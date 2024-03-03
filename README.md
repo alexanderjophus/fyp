@@ -9,6 +9,6 @@ I'm rewriting it in Rust. I've learned a lot since then.
 Here's a checklist of things I need to do:
 - [x] Write the G6 import function
 - [x] Write a naive MIS algorithm
-- [ ] Write an improved MIS algorithm
+- [x] Write an improved MIS algorithm
 - [ ] Understand the rest of the code
 - [ ] Add CI to the project
